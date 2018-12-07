@@ -64,4 +64,6 @@ A complete list of API key resources can be found in the **[API Management Servi
 Figure 1: Developer Dashboard
 
 ## Production API keys:
-*  Unlimited requests. Currently reserved for B.C. Government production applications.  
+*  Unlimited requests. Currently reserved for B.C. Government production applications.
+
+> Last updated: Dec 7th 2018
