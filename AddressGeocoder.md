@@ -70,4 +70,3 @@ Figure 1: Developer Dashboard
 
 ## Contact Us
 If you have or are planning on integrating the BC Address Geocoder into your own applications, we encourage you to **[contact DataBC](https://forms.gov.bc.ca/databc-contact-us/)** and ask to receive important updates.
-
