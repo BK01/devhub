@@ -40,7 +40,7 @@ https://geocoder.api.gov.bc.ca/sites/within.json?bbox=-119.51%2C49.48%2C-119.53%
 
 ## Sample web application
 
-The **[Location Services in Action application](https://ols-demo.apps.gov.bc.ca/index.html)** demonstrates how to use the BC Address Geocoder in a web app.
+The Location Services in Action application (https://ols-demo.apps.gov.bc.ca/index.html) demonstrates how to use the BC Address Geocoder in a web app.
 
 The source can be found in the following repo.
 https://github.com/bcgov/ols-devkit/tree/gh-pages/ols-demo
@@ -49,16 +49,17 @@ https://github.com/bcgov/ols-devkit/tree/gh-pages/ols-demo
 ## API Keys
 
 The Geocoder can be used anonymously or with API keys.
-API keys can be requested with the **[API Key Request](http://kq.apps.gov.bc.ca)** app
+API keys can be requested with the API Key Request application (http://kq.apps.gov.bc.ca)
 
-A complete list of API key resources can be found in the **[API Management Services](https://developer.gov.bc.ca/openshift-wiki/Z1yJPxt)** DevHub page.
+A complete list of API key resources can be found in the API Management Services DevHub page.
+* https://developer.gov.bc.ca/openshift-wiki/Z1yJPxt
 
 ## Anonymous Requests:
 *  Limited to 500 requests per minute
 
 ## Developer API keys:
-*  Rate limit is defined by the API owner and shown in your **[developer dashboard](https://gwa.apps.gov.bc.ca/)**.
-*  API keys rotate every 90 days. New keys are automatically generated and listed in your **[developer dashboard](https://gwa.apps.gov.bc.ca/)**.
+*  Rate limit is defined by the API owner and shown in your developer dashboard (https://gwa.apps.gov.bc.ca/).
+*  API keys rotate every 90 days. New keys are automatically generated and listed in your developer dashboard
 
 ![Developer Dashboard](https://raw.githubusercontent.com/bcgov/gwa/master/img/Enable_API_Keys.JPG)
 Figure 1: Developer Dashboard
