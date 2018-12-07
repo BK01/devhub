@@ -20,9 +20,10 @@ In addition to the **[Geomark homepage](https://www2.gov.bc.ca/gov/content?id=F6
 
 
 ## Sample requests
+* See the **[API console](https://catalogue.data.gov.bc.ca/dataset/geomark-web-service/resource/5c237fac-851c-4cd9-987c-d5cc5a0da7e9/view/fd2f9b17-8527-4a89-a552-7786d36ba1f1)** for a full list.
 
 ## Get information about a particular geomark
-* The attribution of a Geomark can be downloaded in various file formats.
+* The attribution of a Geomark can be downloaded in several file formats.
 
 https://apps.gov.bc.ca/pub/geomark/geomarks/**(GEOMARK ID).(FILE FORMAT)**
 ```console
