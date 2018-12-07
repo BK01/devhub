@@ -11,7 +11,7 @@ Author: Brian Kelsey (DataBC)
 The BC Address Geocoder can be used to resolve the physical locations (i.e., latitude and longitude) and correct, standardized form of civic and non-civic addresses in British Columbia.  It is a web service that is accessible via a REST application programming interface (API).
 
 A full list of materials and sample applications can be found at the **[Geocoder homepage](https://www2.gov.bc.ca/gov/content/data/geographic-data-services/location-services/geocoder)**.
-> https://www2.gov.bc.ca/gov/content/data/geographic-data-services/location-services/geocoder
+* https://www2.gov.bc.ca/gov/content/data/geographic-data-services/location-services/geocoder
 
 ## Where to start
 In addition to the **[Geocoder homepage](https://www2.gov.bc.ca/gov/content/data/geographic-data-services/location-services/geocoder)**, a full list of resources, parameters, formats and coordinate systems can be found in the **[API console](https://catalogue.data.gov.bc.ca/dataset/physical-address-geocoding-web-service/resource/40d6411e-ab98-4df9-a24e-67f81c45f6fa/view/1d3c42fc-53dc-4aab-ae3b-f4d056cb00e0)**. 
@@ -54,14 +54,14 @@ API keys can be requested with the **[API Key Request](http://kq.apps.gov.bc.ca)
 A complete list of API key resources can be found in the **[API Management Services](https://developer.gov.bc.ca/openshift-wiki/Z1yJPxt)** DevHub page.
 
 ## Anonymous Requests:
->  Limited to 500 requests per minute
+*  Limited to 500 requests per minute
 
 ## Developer API keys:
->  Rate limit is defined by the API owner and shown in your **[developer dashboard](https://gwa.apps.gov.bc.ca/)**.
->  API keys rotate every 90 days. New keys are automatically generated and listed in your **[developer dashboard](https://gwa.apps.gov.bc.ca/)**.
+*  Rate limit is defined by the API owner and shown in your **[developer dashboard](https://gwa.apps.gov.bc.ca/)**.
+*  API keys rotate every 90 days. New keys are automatically generated and listed in your **[developer dashboard](https://gwa.apps.gov.bc.ca/)**.
 
 ![Developer Dashboard](https://raw.githubusercontent.com/bcgov/gwa/master/img/Enable_API_Keys.JPG)
 Figure 1: Developer Dashboard
 
 ## Production API keys:
->  Unlimited requests. Currently reserved for B.C. Government production applications. 
+*  Unlimited requests. Currently reserved for B.C. Government production applications. 
