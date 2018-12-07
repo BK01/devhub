@@ -22,6 +22,7 @@ In addition to the **[Geomark homepage](https://www2.gov.bc.ca/gov/content?id=F6
 ## Sample requests
 
 ## Get information about a particular geomark
+* The attribution of a Geomark can be downloaded in various file formats.
 
 https://apps.gov.bc.ca/pub/geomark/geomarks/**(GEOMARK ID).(FILE FORMAT)**
 ```console
@@ -29,6 +30,7 @@ https://apps.gov.bc.ca/pub/geomark/geomarks/gm-abcdefghijklmnopqrstuv0bcislands.
 ```
 
 ## Get geomark feature
+* The geomark feature resource returns a single spatial feature with either a single (Point, LineString, Polygon) or multi-part geometry (MultiPoint, MultiLineString, MultiPolygon) and the geomark attribution. 
 
 https://apps.gov.bc.ca/pub/geomark/geomarks/**(GEOMARK ID)**/feature.json
 ```console
