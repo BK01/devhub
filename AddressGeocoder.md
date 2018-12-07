@@ -19,7 +19,7 @@ In addition to the **[Geocoder homepage](https://www2.gov.bc.ca/gov/content/data
 
 
 ## Sample requests
-* See the **[API console](https://catalogue.data.gov.bc.ca/dataset/geomark-web-service/resource/5c237fac-851c-4cd9-987c-d5cc5a0da7e9/view/fd2f9b17-8527-4a89-a552-7786d36ba1f1)** for a full list.
+* See the **[API console](https://catalogue.data.gov.bc.ca/dataset/physical-address-geocoding-web-service/resource/40d6411e-ab98-4df9-a24e-67f81c45f6fa/view/1d3c42fc-53dc-4aab-ae3b-f4d056cb00e0)** for a full list.
 
 ## Search by address
 
