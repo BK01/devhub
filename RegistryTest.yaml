@@ -1,35 +1,11 @@
 repos:
-  # - name: Pretty name for your Repo or Project (this will display as the top level source/category
-  #         for your content in devhub)
-  #   url: path to the repo like: https://github.com/bcgov/design-system/
-  #   owner: owner of the repo
-  #   repo: repo name as shown in github
-  - name: Design System Components
+  - name: Location Services
     sourceType: 'github'
     sourceProperties:
-      url: https://github.com/bcgov/design-system/
+      url: https://github.com/bcgov/location-services/
       owner: bcgov
-      repo: 'design-system'
+      repo: 'location-services'
     resourceType: 'Components'
-  - name: Mobile Signing Tool
-    sourceType: 'github'
-    sourceProperties:
-      url: https://github.com/bcgov/devhub-signing-web/
-      owner: bcgov
-      repo: 'devhub-signing-web'
-      branch: my-branch
-    resourceType: Self-Service Tools
-  - name: DevHub
-    sourceType: 'github'
-    sourceProperties:
-      url: https://github.com/bcgov/devhub-app-web/
-      owner: bcgov
-      repo: 'devhub-app-web'
-      context:
-        - '/docs/test-context-dir'
-        - 'plugins/docs'
-      branch: 'template'
-    resourceType: 'Repositories'
     attributes:
       labels:
         - Repository
