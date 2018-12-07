@@ -43,7 +43,7 @@ https://geocoder.api.gov.bc.ca/sites/within.json?bbox=-119.51%2C49.48%2C-119.53%
 The Location Services in Action application (https://ols-demo.apps.gov.bc.ca/index.html) demonstrates how to use the BC Address Geocoder in a web app.
 
 The source can be found in the following repo.
-https://github.com/bcgov/ols-devkit/tree/gh-pages/ols-demo
+* https://github.com/bcgov/ols-devkit/tree/gh-pages/ols-demo
 
 
 ## API Keys
