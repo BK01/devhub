@@ -46,4 +46,4 @@ The Geomark Web Service does NOT require the use of API keys.
 
 
 ## Contact Us
-If you have or are planning on integrating the BC Address Geocoder into your own applications, we encourage you to **[contact DataBC](https://forms.gov.bc.ca/databc-contact-us/)** and ask to receive important updates.
+If you have any questions about the Geomark Web Service, we encourage you to **[contact DataBC](https://forms.gov.bc.ca/databc-contact-us/)**.
