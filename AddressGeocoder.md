@@ -1,6 +1,6 @@
 ---
-description: Locate and standardize your addresses with the BC Address Geocoder.
 title: BC Address Geocoder
+description: Locate and standardize your addresses with the BC Address Geocoder.
 image: "https://openclipart.org/image/300px/svg_to_png/271858/flat-map-gray.png"
 ---
 Author: Brian Kelsey (DataBC)
@@ -66,4 +66,3 @@ Figure 1: Developer Dashboard
 ## Production API keys:
 *  Unlimited requests. Currently reserved for B.C. Government production applications.
 
-> Last updated: Dec 7th 2018
