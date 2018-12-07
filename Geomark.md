@@ -31,8 +31,8 @@ https://apps.gov.bc.ca/pub/geomark/geomarks/gm-abcdefghijklmnopqrstuv0bcislands.
 ## Get geomark feature
 
 https://apps.gov.bc.ca/pub/geomark/geomarks/**(GEOMARK ID)**/feature.json
-https://apps.gov.bc.ca/pub/geomark/geomarks/gm-abcdefghijklmnopqrstuv0bcislands/feature.json
 ```console
+https://apps.gov.bc.ca/pub/geomark/geomarks/gm-abcdefghijklmnopqrstuv0bcislands/feature.json
 ```
 
 ## Web application
