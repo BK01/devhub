@@ -3,7 +3,6 @@ title: BC Address Geocoder
 description: Locate and standardize your addresses with the BC Address Geocoder.
 image: "https://openclipart.org/image/300px/svg_to_png/271858/flat-map-gray.png"
 ---
-Author: Brian Kelsey (DataBC)
 
 # BC Address Geocoder
 
@@ -12,6 +11,7 @@ The BC Address Geocoder can be used to resolve the physical locations (i.e., lat
 
 A full list of materials and sample applications can be found at the **[Geocoder homepage](https://www2.gov.bc.ca/gov/content/data/geographic-data-services/location-services/geocoder)**.
 * https://www2.gov.bc.ca/gov/content/data/geographic-data-services/location-services/geocoder
+
 
 ## Where to start
 In addition to the **[Geocoder homepage](https://www2.gov.bc.ca/gov/content/data/geographic-data-services/location-services/geocoder)**, a full list of resources, parameters, formats and coordinate systems can be found in the **[API console](https://catalogue.data.gov.bc.ca/dataset/physical-address-geocoding-web-service/resource/40d6411e-ab98-4df9-a24e-67f81c45f6fa/view/1d3c42fc-53dc-4aab-ae3b-f4d056cb00e0)**. 
@@ -65,4 +65,7 @@ Figure 1: Developer Dashboard
 
 ## Production API keys:
 *  Unlimited requests. Currently reserved for B.C. Government production applications.
+
+## Contact Us
+If you have or are planning on integrating the BC Address Geocoder into your own applications, we encourage you to contact **[DataBC](https://forms.gov.bc.ca/databc-contact-us/)** and ask to receive important updates.
 
