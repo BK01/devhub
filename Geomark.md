@@ -11,7 +11,7 @@ persona: Developer
 The Geomark Web Service allows you to create and share geographic areas of interest over the web in a variety of formats and coordinate systems. This service is especially helpful when you need to share an area of interest with people who require that the data be in a different format, or they use different mapping software.
 Geomarks are immutable and expire after 90 days.
 
-A full list of materials and sample applications can be found at the **[Geomark homepage](https://www2.gov.bc.ca/gov/content?id=F6BAF45131954020BCFD2EBCC456F084)**.
+A full list of materials and Geomark web applications can be found at the **[Geomark homepage](https://www2.gov.bc.ca/gov/content?id=F6BAF45131954020BCFD2EBCC456F084)**.
 * https://www2.gov.bc.ca/gov/content/data/geographic-data-services/location-services/geomark-webservice
 
 
