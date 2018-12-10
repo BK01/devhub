@@ -40,12 +40,14 @@ https://apps.gov.bc.ca/pub/geomark/geomarks/gm-abcdefghijklmnopqrstuv0bcislands/
 
 ## Web application
 
-The Geomark Web application (http://apps.gov.bc.ca/pub/geomark/geomarks) demonstrates how to use Geomark.
+The Geomark Web application (http://apps.gov.bc.ca/pub/geomark/geomarks) demonstrates how to use the Geomark Web Service.
 
 
 ## API Keys
 
 The Geomark Web Service does NOT require the use of API keys.
+
+If you are building a B.C. Government application that requires permanent Geomarks please **[contact DataBC](https://forms.gov.bc.ca/databc-contact-us/)**.
 
 
 ## Contact Us
