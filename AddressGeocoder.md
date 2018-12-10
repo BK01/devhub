@@ -15,7 +15,7 @@ A full list of materials and sample applications can be found at the **[Geocoder
 
 
 ## Where to start
-In addition to the **[Geocoder homepage](https://www2.gov.bc.ca/gov/content/data/geographic-data-services/location-services/geocoder)**, a full list of resources, parameters, formats and coordinate systems can be found in the **[API console](https://catalogue.data.gov.bc.ca/dataset/physical-address-geocoding-web-service/resource/40d6411e-ab98-4df9-a24e-67f81c45f6fa/view/1d3c42fc-53dc-4aab-ae3b-f4d056cb00e0)**. 
+In addition to the **[Geocoder homepage](https://www2.gov.bc.ca/gov/content/data/geographic-data-services/location-services/geocoder)**, a full list of resources, parameters, formats and coordinate systems can be found in the **[API console](https://catalogue.data.gov.bc.ca/dataset/physical-address-geocoding-web-service/resource/40d6411e-ab98-4df9-a24e-67f81c45f6fa/view/1d3c42fc-53dc-4aab-ae3b-f4d056cb00e0)**. Learn more about new releases on the **[What's New](https://www2.gov.bc.ca/gov/content?id=103ADC5A956842828554238DEF28D6E5)** page.
 
 
 ## Sample requests
