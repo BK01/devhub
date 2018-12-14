@@ -5,6 +5,10 @@ repos:
       url: https://github.com/bcgov/api-specs/
       owner: bcgov
       repo: 'api-specs'
+      files:
+        - geocoder/geocoder-developer-guide.md
+        - router/router-developer-guide.md
+        - geomark/geomark-developer-guide.md
     resourceType: 'Components'
     attributes:
       labels:
