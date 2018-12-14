@@ -2,9 +2,9 @@ repos:
   - name: Location Services
     sourceType: 'github'
     sourceProperties:
-      url: https://github.com/bcgov/location-services/
+      url: https://github.com/bcgov/api-specs/
       owner: bcgov
-      repo: 'location-services'
+      repo: 'api-specs'
     resourceType: 'Components'
     attributes:
       labels:
