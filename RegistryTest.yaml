@@ -6,9 +6,9 @@ repos:
       owner: bcgov
       repo: 'api-specs'
       files:
-        - geocoder/geocoder-developer-guide.md
-        - router/router-developer-guide.md
-        - geomark/geomark-developer-guide.md
+        - /geocoder/geocoder-developer-guide.md
+        - /router/router-developer-guide.md
+        - /geomark/geomark-developer-guide.md
     resourceType: 'Components'
     attributes:
       labels:
