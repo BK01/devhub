@@ -8,7 +8,7 @@ sources:
       files:
         - https://github.com/bcgov/api-specs/blob/master/geocoder/geocoder-developer-guide.md
         - https://github.com/bcgov/api-specs/blob/master/router/router-developer-guide.md
-        - https://github.com/bcgov/api-specs/tree/master/geomark/geomark-developer-guide.md
+        - https://github.com/bcgov/api-specs/blob/master/geomark/geomark-developer-guide.md
     resourceType: 'Components'
     attributes:
       labels:
