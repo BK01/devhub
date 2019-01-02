@@ -6,8 +6,10 @@ persona: Developer
 ---
 
 # Geomark Web Service
-
-## Service Overview
+# Developer Guide
+This guide is aimed at developers and web masters that would like to incorporate the Physical Address Geocoder into their applications and websites. 
+<br>
+## Introduction
 The Geomark Web Service allows you to create and share geographic areas of interest over the web in a variety of formats and coordinate systems. This service is especially helpful when you need to share an area of interest with people who require that the data be in a different format, or they use different mapping software.
 Geomarks are immutable and expire after 90 days.
 
