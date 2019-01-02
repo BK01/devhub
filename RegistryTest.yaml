@@ -1,4 +1,4 @@
-repos:
+sources:
   - name: Location Services
     sourceType: 'github'
     sourceProperties:
